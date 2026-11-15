@@ -7,5 +7,5 @@ description = "SigmaOS archlinux-bitdefender component (Arch Linux inspired)"
 license = "MIT OR Apache-2.0"
 
 [lib]
-name = "sigmaos_archlinux-bitdefender"
+name = "sigmaos_archlinux_bitdefender"
 path = "src/lib.rs"
